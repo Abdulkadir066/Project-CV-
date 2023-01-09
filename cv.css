@@ -1,0 +1,36 @@
+*{
+    margin:5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://media.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full{
+    width: 1000%;
+    max-width: 800px;
+    min-height: 800px;
+    background-color: white;
+    margin: 1px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.left{
+    position: initial;
+    background-color: green ;
+    padding: 20px;
+}
+.right{
+    position: initial;
+    background-color:lightgreen;
+}
+.image .contact .skills .Language .Hobbies .title .profiel .experience .Education .project{
+    margin-bottom: 30px;
+}
+.h2{
+    background-color: blue;
+}
+
